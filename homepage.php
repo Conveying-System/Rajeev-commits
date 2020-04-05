@@ -41,7 +41,7 @@ include("header.php");
  <div class="center2" style="color:white;text-align:center;top:40%;">
     <p>Trans offers a customer, by recognizing and understanding the uniqueness of each client’s requirements and needs. Trans offers a comprehensive range of services - based on each what our customers need.
     </p>
-    <p>Continuous improvement of processes is the cornerstone of upholding and developing first class services. Trans defines, measures and – if required – customizes processes to achieve common targets with its clients. Innovative solutions enable Trans to improve service quality and enhance performance.
+    <p> Trans defines, measures and – if required – customizes processes to achieve common targets with its clients. Innovative solutions enable Trans to improve service quality and enhance performance.
     </p>
     </div>
  </div>
