@@ -28,7 +28,7 @@ include("header.php");
  <img src="truck.jpg" height=400 width=100% style=border-radius:8px;opacity:0.8;>
  <div class="center1" style="color:white;text-align:center;top:10%;"><h3>Trucking and Freight Transport<h3></div>
  <div class="center2" style="color:white;text-align:center;top:40%;">
-    <p>The world is changing all around us. To continue to thrive as a business over the next ten years and beyond, we must look ahead, understand the trends and forces that will shape our business in the future and move swiftly to prepare for what's to come. We must get ready for tomorrow today. That's what our future vision is all about. It creates a long-term destination for our business and provides us with a "Roadmap" for winning together with our partners.
+    <p>The world is changing all around us. To continue  ten years and beyond, we must look ahead, understand the trends and forces that will shape our business in the future and move swiftly to prepare for what's to come. We must get ready for tomorrow today. That's what our future vision is all about. It creates a long-term destination for our business and provides us with a "Roadmap" for winning together with our partners.
     </p>
     </div>
  </div>
