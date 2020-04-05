@@ -20,7 +20,6 @@ include("header.php");
       We specialize in a variety of logistics services. Our aim is to deliver the top level of logistics based on your requests. We hope that with our services you will receive the most personalized help in transporting any kind of cargos to any distances, even overseas. Discover the amazing world of logistics with Trans!
  </p>
   </div>
-  
 </div>
 <div style="background-color:#606060;width:100%;height:50px;" >
         <h3 style="color:white;padding:10px;text-align:center;">Trucking<h3>
@@ -40,7 +39,7 @@ include("header.php");
  <img src="cargoplane.jpg" height=500 width=100% style=border-radius:8px;opacity:0.8;>
  <div class="center1" style="color:white;text-align:center;top:10%;"><h3>The Rise of Air Transportation<h3></div>
  <div class="center2" style="color:white;text-align:center;top:40%;">
-    <p>Trans offers a complete range of services associated with the field and provides an individual solution for each and every customer, by recognizing and understanding the uniqueness of each client’s requirements and needs. Trans offers a comprehensive range of services - based on each what our customers need.
+    <p>Trans offers a customer, by recognizing and understanding the uniqueness of each client’s requirements and needs. Trans offers a comprehensive range of services - based on each what our customers need.
     </p>
     <p>Continuous improvement of processes is the cornerstone of upholding and developing first class services. Trans defines, measures and – if required – customizes processes to achieve common targets with its clients. Innovative solutions enable Trans to improve service quality and enhance performance.
     </p>
